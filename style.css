@@ -1,0 +1,18 @@
+body{ 
+    text-align:center;
+}
+#Apps{ 
+    background-color: aliceblue;
+}
+h1{ 
+    font-size:30px;
+}
+.line{ 
+background-color: black;
+    height: 7px;
+    margin:8px auto;
+    width: 80px;
+}
+#chatbot{ 
+background-color: aqua;
+}
